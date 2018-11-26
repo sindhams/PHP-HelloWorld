@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World. Test for pipeline execution</p>'; ?> 
+ <?php echo '<p>Hello. Test for pipeline execution</p>'; ?> 
  </body>
 </html>
